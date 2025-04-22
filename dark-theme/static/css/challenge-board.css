@@ -19,11 +19,11 @@
 }
 
 .btn-info {
-    background-color: #5B7290 !important;
+    background-color: #220524 !important;
 }
 
 .badge-info {
-    background-color: #5B7290 !important;
+    background-color: #220524 !important;
 }
 
 .challenge-button {
@@ -31,7 +31,7 @@
 }
 
 .solved-challenge {
-    background-color: #4CD2FF !important;
+    background-color: #76137D !important;
     opacity: 1.0;
     border: none;
 }
